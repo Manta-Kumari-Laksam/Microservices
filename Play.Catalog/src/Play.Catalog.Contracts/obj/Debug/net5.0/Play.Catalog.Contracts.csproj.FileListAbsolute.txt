@@ -1,0 +1,12 @@
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.deps.json
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\ref\Play.Catalog.Contracts.dll
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csprojAssemblyReference.cache
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfo.cs
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\ref\Play.Catalog.Contracts.dll
+D:\GroupProject\MicroservicesProject\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.pdb

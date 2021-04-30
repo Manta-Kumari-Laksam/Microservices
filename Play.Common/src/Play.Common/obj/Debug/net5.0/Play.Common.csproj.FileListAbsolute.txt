@@ -1,0 +1,12 @@
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.deps.json
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.dll
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\bin\Debug\net5.0\ref\Play.Common.dll
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.pdb
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csprojAssemblyReference.cache
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfoInputs.cache
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfo.cs
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCompileInputs.cache
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.dll
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\obj\Debug\net5.0\ref\Play.Common.dll
+D:\GroupProject\MicroservicesProject\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.pdb

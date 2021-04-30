@@ -1,0 +1,26 @@
+#  docker run -d --rm --name mymongo -p 27017:27017 mongo
+version: "3.8"
+
+services: 
+  mongo:
+    image: mongo
+    container_name: mymongo
+    ports: 
+      - 27017:27017
+    #volumes:
+      #- mongodbdata:/data/db
+  
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: myrabbitmq
+    ports: 
+      - 5672:5672
+      - 15672:15672
+    volumes:
+      - rabbitmqdata:/var/lib/rabbitmq
+    hostname: rabbitmq
+
+volumes:
+  rabbitmqdata:
+  #mongodbdata:
+
